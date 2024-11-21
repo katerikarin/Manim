@@ -1,5 +1,7 @@
-# Electromagnetic wave animation - manim
+# Welcome to my manim repository!
 
-A simple animation that utilizes manim's updater functions and valuetracker to create a clean animation of a propagating electromagnetic wave.
+this is a repository where I put all of my Manim animations' source code. All of it is free to access for anyone.
+for anyone interested, I use manim for physics-based explanations/animations
+
 
 **I've used here ManimCE and not 3b1b's ManimGL for anyone wondering**
